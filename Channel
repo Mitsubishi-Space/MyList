@@ -115,6 +115,18 @@ http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wif
 #EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK Live TV", BBC 2
 http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
 
+#EXTINF:-1 tvg-logo="ITV1.png" group-title="UK Live TV", ITV
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ITV2.png" group-title="UK Live TV", ITV 2
+http://198.179.30.108/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef32d43e6f13cf1b43914ceb696fb6eea27549ab93e8444cd9cdbe22eb2b440ff87c0a291ee4bb2df14930d13086e86325f982da6dfb64decb40cfc4649e32ed2b64ca2bcd1c3804865923337c17907648e75cd4770eb9d00ef18d264b7d2afb23033d48710f582bb0aa3a4d34c12a3b99c35cbb6c8d641214317643406ec1dac4836e438a211010d4c0cc99782471098
+
+#EXTINF:-1 tvg-logo="ITV3.png" group-title="UK Live TV", ITV 3
+http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec0b3a10cc82805f0dbbcb06f873b4e3aa72eb4cbb194be7c19327a7c72ed6dce802966504989d742b78b4803737758145870aac6d4d41e6e46d79312f89f8f36be6e292be6caec4b37bbe1d14db503bbd54755ac84778b7ce5c8ef465d6b0e9c5636abbc457c7fc5b047418f7733645637a2f645f1dab6a8cab4cbeee26849c6802e463b1679c635da6b2f9b0f548eed
+
+#EXTINF:-1 tvg-logo="ITV4.png" group-title="UK Live TV", ITV 4
+http://198.179.30.108/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec95e9e1db2e5d8335b0e117aa6eeb423962022775c46c5d466998e52a890cba9085f05e6602bde010b6a00f220d6b8f3645b85ead4604a8669dec62edea1d01e553c695434cfccc68636868beca6b18e5353e9bab628d3a408bb82e93e7ffc5c1999352841647ffe173c97d4659e7cbdeb05cb44fde93f4679f859a608adef1b4dac8f09bc190db1376020230e9ecd48
+
 #EXTINF:-1 tvg-logo="DMAX.png" group-title="UK Live TV", DMAX 
 http://202.75.23.34/live/ch32/01.m3u8
 
