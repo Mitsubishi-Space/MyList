@@ -1,0 +1,1416 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue] IPTV [/COLOR]
+http://www.youtube.com/
+
+######################################################   TERRESTRIAL TV ################################
+
+#EXTINF:-1,[COLOR yellow] -- MALAYSIAN TV CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1” tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
+http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV2” tvg-name=“TV2” tvg-logo="TV2.png" group-title="MALAYSIAN TV CHANNEL",TV2
+http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV3” tvg-name=“TV3” tvg-logo="TV3.png" group-title="MALAYSIAN TV CHANNEL",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1 tvg-id=“NTV7” tvg-name=“NTV7" tvg-logo="NTV7.png" group-title="MALAYSIAN TV CHANNEL",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:-1 tvg-id=“8TV” tvg-name=“8TV” tvg-logo="8TV.png" group-title="MALAYSIAN TV CHANNEL",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1 tvg-id=“TV9” tvg-name=“TV9” tvg-logo="TV9.png" group-title="MALAYSIAN TV CHANNEL",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:-1 tvg-id=“AL HIJRAH” tvg-name=“AL_HIJRAH” tvg-logo="AL_HIJRAH.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
+http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8
+
+#EXTINF:-1 tvg-id=“TVI” tvg-name=“TVI” tvg-logo="TVi.png" group-title="MALAYSIAN TV CHANNEL",TVI
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“MUZIK AKTIF” tvg-name=“MUZIK_AKTIF” tvg-logo="MUZIK_AKTIF.png" group-title="MALAYSIAN TV CHANNEL",MUZIK AKTIF
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO AWANI” tvg-logo="ASTRO AWANI.png" group-title="MALAYSIAN TV CHANNEL",ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“BERNAMA TV” tvg-name=“BERNAMA_TV” tvg-logo="BERNAMA_TV.png" group-title="MALAYSIAN TV CHANNEL",BERNAMA TV
+http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“BES 1” tvg-name=“BES 1” tvg-logo="BES 1.png" group-title="MALAYSIAN TV CHANNEL",BES 1
+http://supercharged.stream.my/live/ngrp:rtm-ch008.stream_desktop/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“1 NEWS” tvg-name=“1 NEWS” tvg-logo="1 NEWS.png" group-title="MALAYSIAN TV CHANNEL",1 NEWS
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_desktop/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“Mob TV” tvg-name=“Mob TV” tvg-logo="Mob TV.png" group-title="MALAYSIAN TV CHANNEL",Mob TV
+http://54.254.98.181/edge/mobtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“Malaysia Youth TV” tvg-name=“Malaysia Youth TV” tvg-logo="Malaysia Youth TV.png" group-title="MALAYSIAN TV CHANNEL",Malaysia Youth TV
+http://202.73.9.10:1935/live2/smil:mytv.smil/manifest.m3u8
+ 
+#EXTINF:-1 tvg-id=“Galaksi Muzik(RTM)” tvg-name=“Galaksi Muzik(RTM)” tvg-logo="Galaksi Muzik(RTM).png" group-title="MALAYSIAN TV CHANNEL",Galaksi Muzik(RTM)
+http://supercharged.stream.my/live/ngrp:rtm-ch007.stream_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“MyGolf TV” tvg-name=“MyGolf TV” tvg-logo="MyGolf TV.png" group-title="MALAYSIAN TV CHANNEL",MyGolf TV
+http://stream2.1malaysiaiptv.com:1935/mylive/golftv_700k/media_b724878_w1808619614.m3u8
+ 
+#EXTINF:-1 tvg-id=“K TV Creative” tvg-name=“K TV Creative” tvg-logo="K TV Creative.png" group-title="MALAYSIAN TV CHANNEL",K TV Creative
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:kctv_all.smil/playlist_b264000_w834553695.m3u8
+
+#EXTINF:-1 tvg-id=“Parlimen TV” tvg-name=“ParlimenTV”  tvg-logo="Parlimen TV.png" group-title="MALAYSIAN TV CHANNEL",Parlimen TV
+http://supercharged.stream.my/live/rtm-ch009.stream_source/chunklist.m3u8
+
+#EXTINF:-1 tvg-id=“Makkah TV” tvg-name=“Makkah TV”  tvg-logo="Makkah TV.png" group-title="MALAYSIAN TV CHANNEL",Makkah TV
+http://livestreaming2.itworkscdn.net/squranlive/squran_360p/playlist.m3u8
+
+#EXTINF:-1,[COLOR yellow] -- INDONESIAN TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“ANTV” tvg-name=“ANTV” tvg-logo="ANTV.png" group-title="INDONESIAN TV CHANNEL",ANTV
+rtsp://cdn.mivo.tv/mivotvjkt/antv2
+
+#EXTINF:-1 tvg-id=“Indosiar” tvg-name=“Indosiar” tvg-logo="Indosiar.png" group-title="INDONESIAN TV CHANNEL",Indosiar
+rtsp://cdn.mivo.tv/mivotvjkt/indosiar2
+ 
+#EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
+rtsp://cdn.mivo.tv/mivotvjkt/sctv2
+ 
+#EXTINF:-1 tvg-id=“RCTI TV” tvg-name=“RCTI TV” tvg-logo="RCTI TV.png" group-title="INDONESIAN TV CHANNEL",RCTI TV
+rtsp://cdn.mivo.tv/mivotvjkt/rcti2
+ 
+#EXTINF:-1 tvg-id=“Trans TV” tvg-name=“Trans TV” tvg-logo="Trans TV.png" group-title="INDONESIAN TV CHANNEL",Trans TV
+rtsp://cdn.mivo.tv/mivotvjkt/transtv2
+ 
+#EXTINF:-1 tvg-id=“TV ONE” tvg-name=“TV ONE” tvg-logo="TV ONE.png" group-title="INDONESIAN TV CHANNEL",TV ONE
+rtsp://cdn.mivo.tv/mivotvjkt/tvone2
+ 
+#EXTINF:-1 tvg-id=“Global TV” tvg-name=“Global TV” tvg-logo="Global TV.png" group-title="INDONESIAN TV CHANNEL",Global TV
+rtsp://cdn.mivo.tv/mivotvjkt/globaltv2
+ 
+#EXTINF:-1 tvg-id=“Global TV2” tvg-name=“Global TV2” tvg-logo="Global TV2.png" group-title="INDONESIAN TV CHANNEL",Global TV2
+rtmp://edge.okeinfo.net/live/mncoke2_512.stream
+ 
+#EXTINF:-1 tvg-id=“Global TV3” tvg-name=“Global TV3” tvg-logo="Global TV3.png" group-title="INDONESIAN TV CHANNEL",Global TV3
+http://edge.okeinfo.net:1935/live/mncoke2_512.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=“Kompas TV” tvg-name=“Kompas TV” tvg-logo="Kompas TV.png" group-title="INDONESIAN TV CHANNEL",Kompas TV
+rtmp://202.137.11.52/jakarta/offair.sdp
+ 
+#EXTINF:-1 tvg-id=“SIND TV” tvg-name=“SIND TV” tvg-logo="SIND TV.png" group-title="INDONESIAN TV CHANNEL",SIND TV
+rtmp://edge.okeinfo.net/live/mncoke4_512.stream
+
+#EXTINF:-1 tvg-id=“Bali TV” tvg-name=“Bali TV” tvg-logo="Bali TV.png" group-title="INDONESIAN TV CHANNEL",Bali TV
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-balitv/playlist.m3u8
+
+#EXTINF:-1,[COLOR yellow] – UK Live TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="BBC One.png" group-title="UK Live TV", BBC 1
+http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="BBC Two.png" group-title="UK Live TV", BBC 2
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+
+#EXTINF:-1 tvg-logo="DMAX.png" group-title="UK Live TV", DMAX 
+http://202.75.23.34/live/ch32/01.m3u8
+
+#EXTINF:-1 tvg-logo="FX HD.png" group-title="UK Live TV", FX-HD 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+
+#EXTINF:-1 tvg-logo="SKY MOVIES PREMIERE.png" group-title="UK Live TV", Sky Movies Premier
+rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SKY MOVIES CRIME & THRILLER.png" group-title="UK Live TV", Sky Movies Crime & Thriller 
+rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SKY MOVIES ACTION & ADVENTURE.png" group-title="UK Live TV", Sky Movies Action & Adventure
+rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SKY MOVIES MODERN GREATS.png" group-title="UK Live TV", Sky Movies Modern Great
+rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SKY MOVIES SCIFI & HORROR.png" group-title="UK Live TV", Sky Movies Scifi & Horror
+rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SkyComedy.png" group-title="UK Live TV",  Sky Movies Comedy
+rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+ 
+#EXTINF:-1 tvg-logo="SkyModernGreats.png" group-title="UK Live TV",  Sky Thriller
+rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo=" i24.png" group-title="UK Live TV",  i24 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="UK Live TV", ClubLandz
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Now Music UK.png" group-title="UK Live TV", Now Music UK
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Sky Sports News.png" group-title="UK Live TV", Sky News 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff&bitrate=1500
+
+#EXTINF:-1 tvg-logo="Sky Sports News.png" group-title="UK Live TV", Sky Sports News 
+rtmp://31.220.0.134:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1,[COLOR yellow] – USA Live TV -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", Sportsnet East HD 
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", Sportsnet Pacific HD 
+http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", Sportsnet West HD 
+http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", Sportsnet Extra 1 HD 
+http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8
+
+#EXTINF:-1 tvg-logo="USA Network.png" group-title="USA Live TV", USA Network 
+http://mobi3.ibrod.tv:1935/ibusa/usa.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="A&E.png" group-title="USA Live TV", A&E
+http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ABC.png" group-title="USA Live TV", ABC  Family
+http://mobi3.ibrod.tv:1935/ibusa/abcfam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ASN.png" group-title="USA Live TV", ASN SPORTS
+http://202.75.23.33/live/ch26/01.m3u8
+
+#EXTINF:-1 tvg-logo="TNT HD.png" group-title="USA Live TV", TNT  
+http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="Nickelodeon US.png" group-title="USA Live TV", NICK USA 
+http://mobi3.ibrod.tv:1935/ibusa/nick.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", Smash Hits 
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8 
+
+#EXTINF:-1 tvg-logo="Kiss TV.png" group-title="USA Live TV", KISS USA  
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8 
+
+#EXTINF:-1 tvg-logo="4Music" group-title="USA Live TV", 4MUSIC 
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8 
+
+#EXTINF:-1 tvg-logo="Nat Geo US.png" group-title="USA Live TV", NAT GEO 720 HD  
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a 
+
+#EXTINF:-1 tvg-logo="SYFY.png" group-title="USA Live TV", SYFY 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1 
+
+#EXTINF:-1 tvg-logo="MTV US.png" group-title="USA Live TV", MTV Live  
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0 
+
+#EXTINF:-1 tvg-logo="FX.png" group-title="USA Live TV", FX  
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7 
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", CIN 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334 
+
+#EXTINF:-1 tvg-logo="Comedy Central.png" group-title="USA Live TV", Comedy Central 
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="USA Live TV", Bio  
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c 
+
+#EXTINF:-1 tvg-logo="" group-title="USA Live TV", B4U MUSIC  
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=81ff107849124ff389814b0b8816b1ba
+
+
+#EXTINF:-1, [COLOR green] --GREEK CHANNELS--[/COLOR]  
+https://www.youtube.com/channel/UC0X0BZWeBPi17Ij9lIzcCSQ
+ 
+#EXTINF:-1 tvg-logo="MEGA" group-title="GREEK CHANNELS", MEGA (GREECE)
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", ANTI1 (GREECE)
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", STAR (GREECE)
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", ALPHA (GREECE)
+http://alfakanali-lh.akamaihd.net/z/live_1@90368/manifest.f4m
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", SKAI (GREECE)
+http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", E TV(GREECE)
+rtmp://213.16.167.187:1935/live/mpegts_256.stream
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", ET3 (GREECE)
+http://live2.ertopen.com/live2/e600/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", NERIT SPORTS(GREECE)
+http://hprt.flashcloud.mediacdn.com/hprt/nerit-2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="GREEK CHANNELS", BOYLH TV(GREECE)
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+ 
+#EXTINF:-1, [COLOR green]--CYPRUS CHANNELS--[/COLOR]  
+https://www.youtube.com/channel/UC0X0BZWeBPi17Ij9lIzcCSQ
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",ANT1 (CYPRUS)
+http://videos.ant1.com.cy/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",MEGA (CYPRUS)
+http://mlivenews.istoikona.net/livenews.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",SIGMA(CYPRUS)
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",CAPITAL(CYPRUS)
+rtmpe://89.248.170.198:443/liveedge1/capitalcy447.stream
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",RIKSAT(CYPRUS)
+http://player.webvideocore.net/3vszn3e79hwk.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",MUSIC TV(CYPRUS)
+http://musictvstream.istoikona.net/musictv.m3u8
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",GREEK CINEMA(CYPRUS)
+http://www.livestream.com/naturatv1
+ 
+#EXTINF:-1 tvg-logo="ANT1" group-title="CYPRUS CHANNELS",CY SPORTS(CYPRUS)
+http://kanalia.eu/player/player.php?channel=105 30546
+
+########################################################## KIDS CHANNEL  ###########################################
+
+#EXTINF:-1,[COLOR yellow] -- KIDS CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="English Club.png" group-title="KIDS CHANNEL", English Club TV 
+http://85.187.154.9:2001/
+
+#EXTINF:-1 tvg-logo="Disney.png" group-title="KIDS CHANNEL", Disney
+http://disney.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel11/index.m3u8
+
+#EXTINF:-1 tvg-logo="Disney XD.png" group-title="KIDS CHANNEL", Disney XD 
+http://disneyxd.level3.nmp.hls.emision.dof6.com/sogecable/channel24/index.m3u8
+
+#EXTINF:-1 tvg-logo="Panda.png" group-title="KIDS CHANNEL", Panda
+http://panda.akamai.nmp.hls.emision.dof6.com/hls/live/201774/channelpc9/index.m3u8
+
+#EXTINF:-1 tvg-logo="Cartoon Network.png" group-title="KIDS CHANNEL", Cartoon Network 
+#EXTVLCOPT: Audio-track=2
+http://80.77.52.6:4022/udp/230.0.3.15:12345
+
+#EXTINF:-1 tvg-logo="Nickelodeon.png" group-title="KIDS CHANNEL", Nickelodeon 
+#EXTVLCOPT: Audio-track=2
+http://91.240.87.34:4015/udp/224.200.202.40:1234
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“NICK JUNIOR” tvg-name=“NICK_JUNIOR” tvg-logo="NICK_JUNIOR.png" group-title="KIDS CHANNEL",NICK JUNIOR
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“CARTOONITO” tvg-name=“CARTOONITO” tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BABY TV” tvg-name=“BABY_TV” tvg-logo="BABY_TV.png" group-title="KIDS CHANNEL",BABY TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ANIMAX” tvg-name=“ANIMAX” tvg-logo="ANIMAX.png" group-title="KIDS CHANNEL",ANIMAX
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BOOMERANG” tvg-name=“BOOMERANG” tvg-logo="BOOMERANG.png" group-title="KIDS CHANNEL",BOOMERANG
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
+http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_640x360_800kbps.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
+http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“NICKELODEON” tvg-name=“NICKELODEON” tvg-logo="NICKELODEON.png" group-title="KIDS CHANNEL",NICKELODEON
+http://202.75.23.36/live/ch43/03.m3u8
+
+#EXTINF:-1 tvg-id=“DISCOVERY KIDS” tvg-name=“DISCOVERY_KIDS” tvg-logo="DISCOVERY_KIDS.png" group-title="KIDS CHANNEL",DISCOVERY KIDS
+http://202.75.23.35/live/ch36/03.m3u8
+
+#EXTINF:-1 tvg-id=“JIM JAM” tvg-name=“JIM_JAM” tvg-logo="JIM_JAM.png" group-title="KIDS CHANNEL",JIM JAM
+http://202.75.23.37/live/ch17/03.m3u8
+
+#EXTINF:-1 tvg-id=“CARTOONITO” tvg-name=“CARTOONITO” tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
+http://202.75.23.36/live/ch49/03.m3u8
+
+#EXTINF:-1 tvg-id=“BABY FIRST” tvg-name=“BABY_FIRST” tvg-logo="BABY_FIRST.png" group-title="KIDS CHANNEL",BABY FIRST
+http://202.75.23.33/live/ch27/03.m3u8
+
+
+########################   DOCUMENTARIES  ############################
+
+#EXTINF:-1,[COLOR yellow] -- DOCUMENTARIES -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="ANIMAL PLANET HQ NEW.png" group-title="Documentaries", ANIMAL PLANET HQ NEW
+http://83.139.104.101/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="VIASAT HISTORY HQ NEW.png" group-title="Documentaries", VIASAT HISTORY HQ NEW
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="VIASAT EXPLORER HQ NEW.png" group-title="Documentaries", VIASAT EXPLORER HQ NEW
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="TRAVEL CHANNEL HQ NEW.png" group-title="Documentaries", TRAVEL CHANNEL HQ NEW
+http://83.139.104.101/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Animal Planet.png" group-title="Documentaries", Animal Planet 
+http://80.77.52.6:4022/udp/230.0.3.18:12345
+
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Documentaries", Bio HD
+http://202.75.23.36:1400/live/ch46/03.m3u8
+
+#EXTINF:-1 tvg-logo="Discovery Channel.png" group-title="Documentaries", Discovery 
+http://185.6.104.188:10059
+
+#EXTINF:-1 tvg-logo="Nat Geo.png" group-title="Documentaries", National Geographic 
+http://95.69.223.240:8024
+
+#EXTINF:-1 tvg-logo="Nat Geo Wild.png" group-title="Documentaries", National Geographic Wild HD
+http://90.189.183.223:1234/udp/233.7.70.223:5000
+
+#EXTINF:-1 tvg-logo="Viasat History.png" group-title="Documentaries", Viasat History 
+http://80.77.52.6:4022/udp/230.0.3.56:12345
+
+#EXTINF:-1 tvg-logo="Viasat Nature.png" group-title="Documentaries", Viasat Nature 
+http://80.77.52.6:4022/udp/230.0.3.53:12345
+
+#EXTINF:-1 tvg-logo="Viasat Explorer.png" group-title="Documentaries", Viasat Explorer
+http://83.139.104.101/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Travel Channel.png" group-title="Documentaries", Travel Channel 
+http://77.90.73.1:4022/udp/233.136.41.44:1234
+
+#EXTINF:-1 tvg-logo="FOOD NETWORK.png" group-title="Documentaries", FOOD NETWORK
+http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="TLC.png" group-title="Documentaries", TLC
+http://83.139.104.101/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+
+
+########################   MUSIC   ############################
+
+#EXTINF:-1,[COLOR yellow] -- MUSIC CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV ASIA” tvg-name=“MTV_ASIA” tvg-logo="MTV.png" group-title="MUSIC CHANNEL",MTV ASIA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“MTV LIVE” tvg-name=“MTV_LIVE” tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL V” tvg-name=“CHANNEL_V” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL V CHINA” tvg-name=“CHANNEL_V_CHINA” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V CHINA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9102f3553f3246ecbbc9738dd4803344
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“NAT GEO MUSIC” tvg-name=“NAT_GEO_MUSIC” tvg-logo="NAT_GEO_MUSIC.png" group-title="MUSIC CHANNEL",NAT GEO MUSIC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22
+
+#EXTINF:-1 tvg-id=“INDOMIX” tvg-name=“INDOMIX” tvg-logo="INDOMIX.png" group-title="MUSIC CHANNEL",INDOMIX
+http://202.75.23.49/live/ch1/03.m3u8
+
+#EXTINF:-1 tvg-id=“DANGDUTZ” tvg-name=“DANGDUTZ” tvg-logo="DANGDUTZ.png" group-title="MUSIC CHANNEL",DANGDUTZ
+http://202.75.23.49/live/ch3/03.m3u8
+
+#EXTINF:-1 tvg-id=“KITA TV” tvg-name=“KITA_TV” tvg-logo="KITA_TV.png" group-title="MUSIC CHANNEL",KITA TV
+rtmp://kitatv.com/live/ playpath=myStream swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://kitatv.com/live&file=myStream&autostart=true pageUrl=objectEncoding
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV HITS” tvg-name=“MTV_HITS” tvg-logo="MTV_HITS.png" group-title="MUSIC CHANNEL",MTV HITS
+http://202.75.23.35:1400/live/ch42/01.m3u8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV LIVE” tvg-name=“MTV_LIVE” tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
+http://202.75.23.37:1400/live/ch50/03.m3u8
+
+#EXTINF:-1 tvg-id=“ROCK TV” tvg-name=“ROCK_TV” tvg-logo="ROCK_TV.png" group-title="MUSIC CHANNEL",ROCK TV
+rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
+
+#EXTINF:-1 tvg-id=“GOTICA TV” tvg-name=“GOTICA_TV” tvg-logo="GOTICA_TV.png" group-title="MUSIC CHANNEL",GOTICA TV
+rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?236 live=1 pageUrl=http://www.lasteles.com/es/musica/GOTICA/
+
+#EXTINF:-1 tvg-logo="Hip Hop Music.png" group-title="MUSIC CHANNEL", Hip Hop Music 
+http://5.128.90.97:1234/udp/239.1.8.2:1234
+
+#EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSIC CHANNEL", HEART TV 
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+
+#EXTINF:-1 tvg-logo="Best Music.png" group-title="MUSIC CHANNEL", Best Music Tv HD 
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="ESKA.png" group-title="MUSIC CHANNEL", eska Rock Tv HD 
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSIC CHANNEL", Capital tv 
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="MUSIC CHANNEL", Clubland 
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Musiq1.png" group-title="MUSIC CHANNEL", Musiq 1 tv 
+http://212.79.96.134:8005/
+
+#EXTINF:-1 tvg-logo="MTV.png" group-title="MUSIC CHANNEL", MTV US 
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1 tvg-logo="NTWICM.png" group-title="MUSIC CHANNEL", NTWICM  
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Radio 105 TV.png" group-title="MUSIC CHANNEL", Radio 105 Tv 
+rtmp://fms.105.net/live/105Test1
+
+#EXTINF:-1 tvg-logo="ESKA.png" group-title="MUSIC CHANNEL", Partytv Eska HD 
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:-1 tvg-logo="Vevo HD1.png" group-title="MUSIC CHANNEL", Vevo HD1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Vevo HD2.png" group-title="MUSIC CHANNEL", Vevo HD2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Vevo HD3.png" group-title="MUSIC CHANNEL",  Vevo HD3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+########################   VARIETY  ############################
+
+#EXTINF:-1,[COLOR yellow] -- VARIETY CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=0.5 tvg-id=“ ” tvg-name=“ ” tvg-logo="ONE_HD.png" group-title="VARIETY CHANNEL",ONE HD
+rtmp://111.118.21.75:1935/ptv2/phd1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“DW TV” tvg-name=“DW_TV” tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV ASIA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=6de1e752a9974a5980166483c8ed6bb8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“FOX CRIME HD” tvg-name=“FOX_CRIME_HD” tvg-logo="FOX_CRIME_HD.png" group-title="VARIETY CHANNEL",FOX CRIME HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“FX HD” tvg-name=“FX_HD” tvg-logo="FX_HD.png" group-title="VARIETY CHANNEL",FX HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“SONY ENTERTAINMENT” tvg-name=“SONY_ENTERTAINMENT” tvg-logo="SONY_ENTERTAINMENT.png" group-title="VARIETY CHANNEL",SONY ENTERTAINMENT
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=bd30e27f1c48430ba2104548a1b124ca
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“UNIVERSAL CHANNEL” tvg-name=“UNIVERSAL_CHANNEL” tvg-logo="UNIVERSAL_CHANNEL.png" group-title="VARIETY CHANNEL",UNIVERSAL CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“WARNER BROS TV” tvg-name=“WARNER_BROS_TV” tvg-logo="WARNER_BROS_TV.png" group-title="VARIETY CHANNEL",WARNER BROS TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“KIX” tvg-name=“KIX” tvg-logo="KIX.png" group-title="VARIETY CHANNEL",KIX
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e584e0adae6440eab366f5fe3a824f91
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR WORLD HD” tvg-name=“STAR_WORLD_HD” tvg-logo="STAR_WORLD_HD.png" group-title="VARIETY CHANNEL",STAR WORLD HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“COMEDY CENTRAL HD” tvg-name=“COMEDY_CENTRAL_HD” tvg-logo="COMEDY_CENTRAL_HD.png" group-title="VARIETY CHANNEL",COMEDY CENTRAL HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CRIME & INVESTIGATION HD” tvg-name=“CRIME_&_INVESTIGATION_HD” tvg-logo="CI_HD.png" group-title="VARIETY CHANNEL",CRIME & INVESTIGATION HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ITV CHOICE HD” tvg-name=“ITV_CHOICE_HD” tvg-logo="ITV_CHOICE_HD.png" group-title="VARIETY CHANNEL",ITV CHOICE HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e36b99bcd26648af9db2261785c77b7a
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR CHINESE CHANNEL” tvg-name=“STAR_CHINESE_CHANNEL” tvg-logo="STAR_CHINESE_CHANNEL.png" group-title="VARIETY CHANNEL",STAR CHINESE CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CCTV4” tvg-name=“CCTV4” tvg-logo="CCTV4.png" group-title="VARIETY CHANNEL",CCTV4
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5289381709e64f8db14a4ed75ab2b59f
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CCTV9” tvg-name=“CCTV9” tvg-logo="CCTV9.png" group-title="VARIETY CHANNEL",CCTV9
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=b08a8052e6724bedba5399f662715ad1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR PLUS” tvg-name=“STAR_PLUS” tvg-logo="STAR_PLUS.png" group-title="VARIETY CHANNEL",STAR PLUS
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7c75ad89c1cc417aa0f066133c0a2333
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR GOLD” tvg-name=“STAR_GOLD” tvg-logo="STAR_GOLD.png" group-title="VARIETY CHANNEL",STAR GOLD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=53c2bf7e52a44fd8b6df7f9e83891bbc
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZING” tvg-name=“ZING” tvg-logo="ZING.png" group-title="VARIETY CHANNEL",ZING
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=3e30590edd7940e29335d243342fc6b0
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE CLASSIC” tvg-name=“ZEE_CLASSIC” tvg-logo="ZEE_CLASSIC.png" group-title="VARIETY CHANNEL",ZEE CLASSIC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e2f5c5390bbb4e2781454f3f32add81c
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE ETC” tvg-name=“ZEE_ETC” tvg-logo="ZEE_ETC.png" group-title="VARIETY CHANNEL",ZEE ETC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dcf0d550815947f3bacaf3521e118124
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE TV” tvg-name=“ZEE_TV” tvg-logo="ZEE_TV.png" group-title="VARIETY CHANNEL",ZEE TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8be5e8787848472089925a7bb7f43ef1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“V CHANNEL” tvg-name=“V_CHANNEL” tvg-logo="V_CHANNEL.png" group-title="VARIETY CHANNEL",V CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=09cac500285d42ec97465b2219db5f53
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL M HD” tvg-name=“CHANNEL_M_HD” tvg-logo="CHANNEL_M_HD.png" group-title="VARIETY CHANNEL",CHANNEL M HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“AXN” tvg-name=“AXN” tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
+http://203.162.235.26/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
+
+#EXTINF:-1 tvg-id=“DW TV” tvg-name=“DW_TV” tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+
+#EXTINF:-1 tvg-id=“TLC” tvg-name=“TLC” tvg-logo="TLC.png" group-title="VARIETY CHANNEL",TLC
+http://202.75.23.34/live/ch35/03.m3u8
+
+#EXTINF:-1 tvg-id=“DMAX” tvg-name=“DMAX” tvg-logo="DMAX.png" group-title="VARIETY CHANNEL",DMAX
+http://202.75.23.34/live/ch32/03.m3u8
+
+#EXTINF:-1 tvg-id=“EVE” tvg-name=“EVE” tvg-logo="EVE.png" group-title="VARIETY CHANNEL",EVE
+http://202.75.23.34/live/ch34/03.m3u8
+
+#EXTINF:-1 tvg-id=“BIO” tvg-name=“BIO” tvg-logo="BIO.png" group-title="VARIETY CHANNEL",BIO
+http://202.75.23.36/live/ch46/03.m3u8
+
+#EXTINF:-1 tvg-id=“CRIME & INVESTIGATION” tvg-name=“CRIME_&_INVESTIGATION” tvg-logo="CI.png" group-title="VARIETY CHANNEL",CRIME & INVESTIGATION
+http://202.75.23.36/live/ch47/03.m3u8
+
+#EXTINF:-1 tvg-id=“LIFETIME” tvg-name=“LIFETIME” tvg-logo="LIFETIME.png" group-title="VARIETY CHANNEL",LIFETIME
+http://202.75.23.36/live/ch48/03.m3u8
+
+#EXTINF:-1 tvg-id=“HI TV” tvg-name=“HI_TV” tvg-logo="HI_TV.png" group-title="VARIETY CHANNEL",HI TV
+http://202.75.23.49/live/ch5/03.m3u8
+
+#EXTINF:-1 tvg-id=“NET. TV” tvg-name=“NET._TV” tvg-logo="NET._TV.png" group-title="VARIETY CHANNEL",NET. TV
+http://202.75.23.49/live/ch6/03.m3u8
+
+#EXTINF:-1 tvg-id=“TWIT” tvg-name=“TWIT” tvg-logo="TWIT.png" group-title="VARIETY CHANNEL",TWIT
+http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TRAVEL CHANNEL” tvg-name=“TRAVEL_CHANNEL” tvg-logo="TRAVEL_CHANNEL.png" group-title="VARIETY CHANNEL",TRAVEL CHANNEL
+http://202.75.23.35/live/ch41/03.m3u8
+
+#EXTINF:-1 tvg-id=“FASHION TV” tvg-name=“FASHION_TV” tvg-logo="FASHION_TV.png" group-title="VARIETY CHANNEL",FASHION TV
+http://202.75.23.37/live/ch16/03.m3u8
+
+#EXTINF:-1 tvg-id=“FASHION ONE” tvg-name=“FASHION_ONE” tvg-logo="FASHION_ONE.png" group-title="VARIETY CHANNEL",FASHION ONE
+http://202.75.23.35/live/ch37/03.m3u8
+
+#EXTINF:-1 tvg-id=“PENTAGON TV” tvg-name=“PENTAGON_TV” tvg-logo="PENTAGON_TV.png" group-title="VARIETY CHANNEL",PENTAGON TV
+rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60
+
+#EXTINF:-1 tvg-id=“ARIRANG” tvg-name=“ARIRANG” tvg-logo="ARIRANG.png" group-title="VARIETY CHANNEL",ARIRANG
+http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
+
+#EXTINF:-1 tvg-id=“ARIRANG HD” tvg-name=“ARIRANG HD” tvg-logo="ARIRANG_HD.png" group-title="VARIETY CHANNEL",ARIRANG HD
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+
+#EXTINF:-1 tvg-id=“KBS WORLD” tvg-name=“KBS_WORLD” tvg-logo="KBS_WORLD.png" group-title="VARIETY CHANNEL",KBS WORLD
+http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“STAR JALSHA” tvg-name=“STAR_JALSHA” tvg-logo="STAR_JALSHA.png" group-title="VARIETY CHANNEL",STAR JALSHA
+rtmp://cp133305.live.edgefcs.net/live playpath=starjalsha2@62072 swfUrl=http://lihattv.us/scripts/player.swf conn=S:OK pageUrl=http://lihattv.tv/stats?ch=premium swfVfy=true live=true
+
+#EXTINF:-1 tvg-id=“STAR VIJAY” tvg-name=“STAR_VIJAY” tvg-logo="STAR_VIJAY.png" group-title="VARIETY CHANNEL",STAR VIJAY
+rtmpe://watch.playfooty.tv/live playpath=stvijay swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv live=1 timeout=15
+
+#EXTINF:-1 tvg-id=“COLORS” tvg-name=“COLORS” tvg-logo="COLORS.png" group-title="VARIETY CHANNEL",COLORS
+rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/
+
+#EXTINF:-1 tvg-id=“ZEE SMILE” tvg-name=“ZEE_SMILE” tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
+rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/
+
+########################   MOVIES   ############################
+
+#EXTINF:-1,[COLOR yellow] -- MOVIES CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“THRILL” tvg-name=“THRILL” tvg-logo="THRILL.png" group-title="MOVIES CHANNEL",THRILL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=c316ed9333e54442b25077f0bb3cc269
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CELESTIAL CLASSIC MOVIES” tvg-name=“CELESTIAL_CLASSIC_MOVIES” tvg-logo="CELESTIAL_CLASSIC_MOVIES.png" group-title="MOVIES CHANNEL",CELESTIAL CLASSIC MOVIES
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR CHINESE MOVIES LEGEND” tvg-name=“STAR_CHINESE_MOVIES_LEGEND” tvg-logo="STAR_CHINESE_MOVIES_LEGEND.png" group-title="MOVIES CHANNEL",STAR CHINESE MOVIES LEGEND
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=c8233976dbba4a06a101780907447375
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE CINEMA” tvg-name=“ZEE_CINEMA” tvg-logo="ZEE_CINEMA.png" group-title="MOVIES CHANNEL",ZEE CINEMA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=18560c96b9f446bb87acb8981a2fe9c5
+
+#EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=“HBO HD” tvg-name=“HBO_HD” tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
+http://203.162.235.26/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CINEMAX” tvg-name=“CINEMAX” tvg-logo="CINEMAX.png" group-title="MOVIES CHANNEL",CINEMAX
+http://203.162.235.26:80/lives/origin03/cinemaxmb.isml/cinemaxmb.m3u8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR MOVIES HD” tvg-name=“STAR_MOVIES_HD” tvg-logo="STAR_MOVIES_HD.png" group-title="MOVIES CHANNEL",STAR MOVIES HD
+http://203.162.235.26/lives/origin03/moviehdmb.isml/moviehdmb.m3u8
+
+#EXTINF:-1 tvg-id=“MGM MOVIES” tvg-name=“MGM_MOVIES” tvg-logo="MGM_MOVIES.png" group-title="MOVIES CHANNEL",MGM MOVIES
+http://202.75.23.35/live/ch40/03.m3u8
+
+#EXTINF:-1 tvg-id=“JGO MOVIES” tvg-name=“JGO_MOVIES” tvg-logo="JGO_MOVIES.png" group-title="MOVIES CHANNEL",JGO MOVIES
+http://202.75.23.49:1400/live/ch4/01.m3u8
+
+#EXTINF:-1 tvg-id=“B4U MOVIES” tvg-name=“B4U_MOVIES” tvg-logo="B4U_MOVIES.png" group-title="MOVIES CHANNEL",B4U MOVIES
+rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-movies/ token=Vu4KaBzaxa
+
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" " group-title="MOVIES CHANNEL",24/7 MOVIES HD
+rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1 tvg-logo="Cinestar Premiere 1.png" group-title="MOVIES CHANNEL", Cinestar Premiere 1 
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Cinestar Premiere 2.png" group-title="MOVIES CHANNEL", Cinestar Premiere 2
+http://83.139.104.101/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pink.png" group-title="MOVIES CHANNEL", Pink HD 
+http://149.255.39.122/aasd/8801/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pink.png" group-title="MOVIES CHANNEL", Pink BH HD 
+http://149.255.39.122/aasd/8803/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pink.png" group-title="MOVIES CHANNEL", Pink Action HD 
+http://149.255.39.122/aasd/8804/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pink.png" group-title="MOVIES CHANNEL", Pink Extra HD 
+http://149.255.39.122/aasd/8806/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Action 1.png" group-title="MOVIES CHANNEL", Pink Action 1 
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Action 2.png" group-title="MOVIES CHANNEL", Pink Action 2 
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Action 3.png" group-title="MOVIES CHANNEL", Pink Action 3 
+http://on108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_109/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Premium.png" group-title="MOVIES CHANNEL", Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Horror.png" group-title="MOVIES CHANNEL", Pink Horror 
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Comedy.png" group-title="MOVIES CHANNEL", Pink Comedy 
+http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Pink Family.png" group-title="MOVIES CHANNEL", Pink Family 
+http://on108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Paramount.png" group-title="MOVIES CHANNEL", Paramount Channel 
+http://80.77.52.6:4022/udp/230.0.3.20:12345
+
+#EXTINF:-1 tvg-logo="TV1000.png" group-title="MOVIES CHANNEL", TV1000  
+http://80.77.52.6:4022/udp/230.0.3.54:12345
+
+#EXTINF:-1 tvg-logo="TV1000.png" group-title="MOVIES CHANNEL", TV1000 Action  
+http://80.77.52.6:4022/udp/230.0.3.52:12345
+
+#EXTINF:-1 tvg-logo="MGM HD.png" group-title="MOVIES CHANNEL", MGM 
+http://93.184.81.71:8097/
+
+
+############################################# SPORTS ###################
+
+#EXTINF:-1,[COLOR yellow] -- SPORTS CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“EUROSPORT” tvg-name=“EUROSPORT” tvg-logo="EUROSPORT.png" group-title="SPORTS CHANNEL",EUROSPORT
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id=“EUROSPORT 2” tvg-name=“EUROSPORT 2” tvg-logo="EUROSPORT 2.png" group-title="SPORTS CHANNEL",EUROSPORT 2
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-id=“SuperSport HD 1” tvg-name=“SuperSport HD 1” tvg-logo="SuperSport HD 1.png" group-title="SPORTS CHANNEL",SuperSport HD 1
+http://149.255.39.122/aasd/8733/index.m3u8
+
+#EXTINF:-1 tvg-id=“SuperSport HD 2” tvg-name=“SuperSport HD 2” tvg-logo="SuperSport HD 2.png" group-title="SPORTS CHANNEL",SuperSport HD 2
+http://149.255.39.122/aasd/8734/index.m3u8
+
+#EXTINF:-1 tvg-id=“FOX SPORTS 1” tvg-name=“FOX SPORT 2” tvg-logo="FOX SPORT 1.png" group-title="SPORTS CHANNEL",FOX SPORT 1
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-id=“FOX SPORTS 2” tvg-name=“FOX SPORT 2” tvg-logo="FOX SPORT 2.png" group-title="SPORTS CHANNEL",FOX SPORT 2 
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-id=“ASN SPORTS” tvg-name=“ASN SPORT HD” tvg-logo="ASN SPORT HD.png" group-title="SPORTS CHANNEL",ASN SPORT HD
+http://202.75.23.33/live/ch26/03.m3u8
+
+#EXTINF:-1 tvg-id=“ASN SPORTS” tvg-name=“AutoSport HD” tvg-logo="AutoSport HD.png" group-title="SPORTS CHANNEL",AutoSport HD
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1 tvg-id=“TEN CRICKET” tvg-name=“TEN_CRICKET” tvg-logo="TEN_CRICKET.png" group-title="SPORTS CHANNEL",TEN CRICKET
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
+
+#EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
+http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
+
+#EXTINF:-1 tvg-id=“ASN SPORTS” tvg-name=“ASN_SPORTS” tvg-logo="ASN_SPORTS.png" group-title="SPORTS CHANNEL",ASN SPORTS
+http://202.75.23.33/live/ch26/03.m3u8
+
+#EXTINF:-1 tvg-id=“SETANTA SPORTS” tvg-name=“SETANTA_SPORTS” tvg-logo="SETANTA_SPORTS.png" group-title="SPORTS CHANNEL",SETANTA SPORTS
+http://202.75.23.36/live/ch44/03.m3u8
+
+#EXTINF:-1 tvg-id=“EURO SPORTS” tvg-name=“EURO_SPORTS” tvg-logo="EURO_SPORTS.png" group-title="SPORTS CHANNEL",EURO SPORTS
+http://202.75.23.37/live/ch21/03.m3u8
+
+#EXTINF:-1 tvg-id=“ESPN” tvg-name=“ESPN” tvg-logo="ESPN.png" group-title="SPORTS CHANNEL",ESPN
+rtmp://46.246.29.142:1935/stream/ playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=y264x236v59406144333r2q2b413p2q2u274q2u2z294&adx=&stream=z2b4549474s254m5e42323v26403w2l2z274y2u4o4k5n434w233m22464b4v2u2u2a4v274a443r223x284s4w5k5i2k5p5r4b4b4g466p2o2n4r204p2q274h5t2a4s294q2g524n5d4y27474e4k5c4y2x233v26474g564q2h59413b4z2w234t2o2l2r204p2q2r2g5p4&sooor=MzI=&str=is&idom=www.firstrow1.eu
+
+#EXTINF:-1 tvg-logo="SkySports1.png" group-title="All Sports", Sky Sports 1
+rtmpe://46.246.124.30:1935/live/ playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SkySports2.png" group-title="All Sports", Sky Sports 2
+rtmpe://46.246.124.30:1935/live/ playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SkySports3.png" group-title="All Sports", Sky Sports 3
+rtmpe://46.246.124.30:1935/live/ playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-logo="SkySports4.png" group-title="All Sports", Sky Sports 4
+rtmp://31.220.0.82:1935/live playpath=s4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="SkySports5.png" group-title="All Sports", Sky Sports 5
+rtmp://31.220.0.82:1935/live playpath=s5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-id=“SKY SPORTS F1” tvg-name=“SKY_SPORTS_F1” tvg-logo="SKY_SPORTS_F1.png" group-title="SPORTS CHANNEL",SKY SPORTS F1
+rtmpe://46.246.124.30:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-id=“SKY SPORTS NEWS” tvg-name=“SKY_SPORTS_NEWS” tvg-logo="SKY_SPORTS_NEWS.png" group-title="SPORTS CHANNEL",SKY SPORTS NEWS
+rtmpe://46.246.124.30:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+#EXTINF:-1 tvg-id=“SKY POKER” tvg-name=“SKY_POKER” tvg-logo="SKY_POKER.png" group-title="SPORTS CHANNEL",SKY POKER
+rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FALSE
+
+#EXTINF:-1 tvg-id=“AT THE RACES” tvg-name=“AT_THE_RACES” tvg-logo="AT_THE_RACES.png" group-title="SPORTS CHANNEL",AT THE RACES
+rtmp://89.248.168.130:443/liverepeater playpath=8 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id=“RACING UK” tvg-name=“RACING_UK” tvg-logo="RACING_UK.png" group-title="SPORTS CHANNEL",RACING UK
+rtmp://89.248.174.51:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=1&width=640&height=460 live=1 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id=“REDBULL SPORTS” tvg-name=“REDBULL_SPORTS” tvg-logo="REDBULL_SPORTS.png" group-title="SPORTS CHANNEL",REDBULL SPORTS
+http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8
+
+#EXTINF:-1 tvg-id=“FIGHT SPORTS” tvg-name=“FIGHT_SPORTS” tvg-logo="FIGHT_SPORTS.png" group-title="SPORTS CHANNEL",FIGHT SPORTS
+http://202.75.23.37/live/ch20/03.m3u8
+
+#EXTINF:-1 tvg-id=“WWE NETWORK” tvg-name=“WWE_NETWORK” tvg-logo="WWE_NETWORK.png" group-title="SPORTS CHANNEL",WWE NETWORK
+rtmp://80.82.65.237:443/liverepeater playpath=46 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-id=“BIG TEN NETWORK” tvg-name=“BIG_TEN_NETWORK” tvg-logo="BIG_TEN_NETWORK.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
+
+#EXTINF:-1 tvg-id=“BIG TEN NETWORK HD” tvg-name=“BIG_TEN_NETWORK_HD” tvg-logo="BIG_TEN_NETWORK_HD.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1 tvg-id=“NBA TV” tvg-name=“NBA_TV” tvg-logo="NBA_TV.png" group-title="SPORTS CHANNEL",NBA TV
+rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/
+
+#EXTINF:-1 tvg-logo="BT Sport 1.png" group-title="SPORTS CHANNEL", BT SPORTS 1 
+rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
+
+#EXTINF:-1 tvg-logo="BT Sport 2.png" group-title="SPORTS CHANNEL", BT SPORTS 2 
+rtmpe://31.220.0.198/live playpath=bt2 pageUrl=http://www.pvtserverz.com/
+
+#EXTINF:-1 group-title="SPORTS CHANNEL", ESPN HD 
+rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+
+#EXTINF:-1 tvg-logo="BeINSports1HD.png" group-title="All Sports",Bein Sports 1 (Alt)
+http://202.75.23.37/live/ch18/03.m3u8
+
+#EXTINF:-1 tvg-logo="BeINSports2HD.png" group-title="All Sports",Bein Sports 2 (Alt) 
+http://202.75.23.37/live/ch19/03.m3u8
+
+#EXTINF:-1 tvg-logo="BeINSports1HD.png" group-title="All Sports",Bein Sports 1 
+rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports2HD.png" group-title="All Sports",Bein Sports 2 
+rtmp://31.220.0.194:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports3HD.png" group-title="All Sports",Bein Sports 3
+rtmp://31.220.0.194:1935/live playpath=bns3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports4HD.png" group-title="All Sports",Bein Sports 4 
+rtmp://31.220.0.194:1935/live playpath=bns4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10 
+
+#EXTINF:-1 tvg-logo="BeINSports5HD.png" group-title="All Sports",Bein Sports 5 
+rtmp://31.220.0.194:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports6HD.png" group-title="All Sports",Bein Sports 6
+rtmp://31.220.0.194:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports7HD.png" group-title="All Sports",Bein Sports 7 
+rtmp://31.220.0.194:1935/live playpath=bns7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports8HD.png" group-title="All Sports",Bein Sports 8 
+rtmp://62.210.84.233:443/liverepeater playpath=166331 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports9HD.png" group-title="All Sports",Bein Sports 9 
+rtmp://31.220.0.194:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports10HD.png" group-title="All Sports",Bein Sports 10
+rtmp://31.220.0.194:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports11HD.png" group-title="All Sports",Bein Sports 11 
+rtmp://31.220.0.194:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports12HD.png" group-title="All Sports",Bein Sports 12 
+rtmp://31.220.0.194:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+#EXTINF:-1 tvg-logo="BeINSports13HD.png" group-title="All Sports",Bein Sports 13
+rtmp://173.192.81.172/flash/ playpath=18425?MTQxMDU0OTkzMTtjMDc1NDdmMjQzNDJlNTlmNDRhYzA1N2ZiYTRkM2Q0Yw== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/Q0YjRlMWQxNGQ2ZWU0NjRhNzg1NTE3ZTc_/bGFneWV0MTM6YzhjOTIxODM5ZGM1ZTE1ODgxNWJiYzM0YWIyN2U5Yzg6MGI2Y2U0Nz
+
+#EXTINF:-1 tvg-logo="BeINSports14HD.png" group-title="All Sports",Bein Sports 14 
+rtmp://173.192.81.172/flash playpath=18426?MTQxMjE2ODI4MjtjMWIyOTkzNWYzMjA2ODA4MGU4NjUwMWU2NjNhMjY2Nw== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/c2NGM1NjZhMmY0NGNhN2QyMjEyNzJmZmU_/bGFncWVzMTQ6MDI5ZjRlZjliNjk2YjJlMDViOWE5NGE1YjM5MWMzODk6YmNkYjJiZD
+
+#EXTINF:-1 tvg-logo="BeINSports15HD.png" group-title="All Sports",Bein Sports 15 
+rtmp://158.85.70.81/flash playpath=18427?MTQxMjE2ODQwNzs4N2Q0MmVlYjc2ODFlZTA0MTdjYzQwNGEyNTM0ZjFjNg==  swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/BjN2NkMzc4MTU1ZGUzNDEzNmQzNmVlNTc_/bGFnZ2FsMTU6NWM0YTBlNWMxNTY0YmMzYjdhMzk3NzYwNzNmYjQzNWQ6MWQwMmViNz
+
+
+########################   ALL SPORTS ############################
+
+#EXTINF:-1 tvg-logo="Super Sport 1.png" group-title="ALL Sports", Super Sport 1 (Albania)
+http://149.255.39.122/aasd/8733/index.m3u8
+
+#EXTINF:-1 tvg-logo="Super Sport 2.png" group-title="ALL Sports", Super Sport 2 (Albania)
+http://149.255.39.122/aasd/8734/index.m3u8
+
+#EXTINF:-1 tvg-logo="Super Sport 3.png" group-title="ALL Sports", Super Sport 3 (Albania)
+http://149.255.39.122/aasd/8741/index.m3u8
+
+#EXTINF:-1 tvg-logo="Pro Sports 1.png" group-title="ALL Sports", Pro Sports 1 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="Pro Sports 2.png" group-title="ALL Sports",Pro Sports 2 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="Pro Sports 3.png" group-title="ALL Sports",Pro Sports 3 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="Super Sport 4.png" group-title="ALL Sports", Super Sport 4 (Albania)
+http://149.255.39.122/aasd/8743/index.m3u8
+
+#EXTINF:-1 tvg-logo="Sky Bundesliga 1.png" group-title="ALL Sports", Sky Bundesliga 1
+http://62.209.36.244:81/udp/239.100.1.0:1234
+
+#EXTINF:-1 tvg-logo="Sky Sport 1.png" group-title="ALL Sports", Sky Sport 1 (Deutschland)
+http://62.209.36.244:81/udp/239.100.4.2:1234
+
+#EXTINF:-1 tvg-logo="Sky Sport 2.png" group-title="ALL Sports", Sky Sport 2 (Deutschland)
+http://62.209.36.244:81/udp/239.100.4.3:1234
+
+#EXTINF:-1 tvg-logo="Sky Sport 1.png" group-title="ALL Sports", SKY CALCIO (ITA)
+rtmp://31.220.0.196:1935/live playpath=skycalciomain swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skycalciomain&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="Sky Sport 1.png" group-title="ALL Sports", SKY SPORTS1 (ITA)
+rtmp://31.220.0.104:1935/live playpath=sky01ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky01ita&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="Sky Sport 2.png" group-title="ALL Sports", SKY SPORTS2 (ITA)
+rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="Sky Bundesliga 1.png" group-title="ALL Sports", SK3 SPORTS ((SERBIAN)) (EPL GAMES)
+http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="Setanta Sports 1.png" group-title="ALL Sports", Setanta Sport 
+#EXTVLCOPT: Audio-track=2
+http://80.77.52.6:4022/udp/230.0.4.1:12345
+
+#EXTINF:-1 tvg-logo="Viasat Sport.png" group-title="ALL Sports", ViaSat Sports 
+http://80.77.52.6:4022/udp/230.0.3.58:12345
+
+#EXTINF:-1 tvg-logo="Viasat Golf.png" group-title="ALL Sports", ViaSat Golf
+http://185.47.212.22:65321/udp/239.100.202.8:1234
+
+#EXTINF:-1 group-title="ALL Sports", Kanal Sports 
+http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8
+
+#EXTINF:-1 group-title="ALL Sports", Antena 3 Sports 720 HD 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="MBC.png" group-title="ALL Sports", MBC Sports Pro 1
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="MBC.png" group-title="ALL Sports", MBC Sports Pro 2
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="MBC.png" group-title="ALL Sports", MBC Sports Pro 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="MNC Sport1 HD.png" group-title="ALL Sports", MNC Sport1 HD
+http://edge.okeinfo.net:1935/live/mncoke12_512.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", MNC Sport2 HD
+rtmp://edge.okeinfo.net:1935/live/mncoke13_512.stream
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 tvg-logo="MNC Sport2 HD.png" group-title="ALL Sports", SPORTIME.TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Football
+http://92.63.88.19:8001/57
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Sport Union
+http://92.63.88.19:8001/59
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Football 2
+http://92.63.88.19:8001/61
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + our football
+http://92.63.88.19:8001/62
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Sport
+http://92.63.88.19:8001/51
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + SportHit
+http://92.63.88.19:8001/95
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Sport Plus
+http://92.63.88.19:8001/32
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Basketball
+http://92.63.88.19:8001/33
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:NTV + Tennis
+http://92.63.88.19:8001/66
+
+#EXTINF:-1 tvg-logo="MBC.png" group-title="ALL Sports", SPORTS-TV+:Viasat Sport
+http://92.63.88.19:8001/106
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Sports
+http://92.63.88.19:8001/47
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Sports 1
+http://92.63.88.19:8001/21
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Eurosport
+http://92.63.88.19:8001/22
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Eurosport 2
+http://92.63.88.19:8001/58
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Fight Club
+http://92.63.88.19:8001/35
+
+#EXTINF:-1 tvg-logo="MBC.png" group-title="ALL Sports", SPORTS-TV+:Fighter
+http://92.63.88.19:8001/60
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:Motors TV
+http://92.63.88.19:8001/37
+
+#EXTINF:-1 tvg-logo="SPORTS-TV.png" group-title="ALL Sports", SPORTS-TV+:X Sport
+http://92.63.88.19:8001/70
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports", Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports", Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports", Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports", Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports", Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="All Sports",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+########################   NEWS ############################
+
+#EXTINF:-1,[COLOR yellow] -- NEWS CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“NHK WORLD” tvg-name=“NHK_WORLD” tvg-logo="NHK_WORLD.png" group-title="NEWS CHANNEL",NHK WORLD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=cd25fccffa6f4a2f8d7190d3e8907440
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“AL JAZEERA” tvg-name=“AL_JAZEERA” tvg-logo="Al_JAZEERA.png" group-title="NEWS CHANNEL",AL JAZEERA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
+
+#EXTINF:-1 tvg-id=“MSNBC HD” tvg-name=“MSNBC_HD” tvg-logo="MSNBC.png" group-title="NEWS CHANNEL",MSNBC HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7f2989e3f87e4efdb36bac56b64dca62
+
+#EXTINF:-1 tvg-id=“FRANCE24” tvg-name=“FRANCE24” tvg-logo="FRANCE24.png" group-title="NEWS CHANNEL",FRANCE24
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=82c764aa2d7f42579348b8717cb5b9a4
+
+#EXTINF:-1 tvg-id=“SKY NEWS HD” tvg-name=“SKY_NEWS_HD” tvg-logo="SKY_NEWS_HD.png" group-title="NEWS CHANNEL",SKY NEWS HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff
+
+#EXTINF:-1 tvg-id=“BES 1” tvg-name=“BES_1” tvg-logo="BES_1.png" group-title="NEWS CHANNEL",BES 1
+http://supercharged.stream.my/live/ngrp:rtm-ch008.stream_desktop/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“1 NEWS” tvg-name=“1_NEWS” tvg-logo="1_NEWS.png" group-title="NEWS CHANNEL",1 NEWS
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_desktop/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“CHANNEL NEWS ASIA” tvg-name=“CHANNEL_NEWS_ASIA” tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
+http://202.75.23.37/live/ch15/03.m3u8
+
+#EXTINF:-1 tvg-id=“CHANNEL NEWS ASIA” tvg-name=“CHANNEL_NEWS_ASIA” tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
+http://cna_hls-lh.akamaihd.net/i/cna_en@8000/master.m3u8
+
+#EXTINF:-1 tvg-id=“BERITA SATU” tvg-name=“BERITA_SATU” tvg-logo="BERITA_SATU.png" group-title="NEWS CHANNEL",BERITA SATU
+http://202.75.23.50:1400/live/ch13/03.m3u8
+
+#EXTINF:-1 tvg-id=“BERITA SATU WORLD” tvg-name=“BERITA_SATU_WORLD” tvg-logo="BERITA_SATU_WORLD.png" group-title="NEWS CHANNEL",BERITA SATU WORLD
+http://202.75.23.49:1400/live/ch2/03.m3u8
+
+#EXTINF:-1 tvg-id=“NHK WORLD” tvg-name=“NHK_WORLD” tvg-logo="NHK_WORLD.png" group-title="NEWS CHANNEL",NHK WORLD
+http://nhkworldlive-lh.akamaihd.net/i/nhkworld_w@145835/index_512_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id=“AL JAZEERA” tvg-name=“AL_JAZEERA” tvg-logo="Al_JAZEERA.png" group-title="NEWS CHANNEL",AL JAZEERA
+rtmp://hd2.lsops.net/live playpath=aljazeer_en_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf pageURL=http://www.livestation.com/channels/3-al-jazeera-english-english
+
+#EXTINF:-1 tvg-id=“AL JAZEERA HD” tvg-name=“AL_JAZEERA HD” tvg-logo="Al_JAZEERA HD.png" group-title="NEWS CHANNEL",AL JAZEERA HD
+http://61.93.247.210:80/hls/aljaseera/aljaseera.m3u8
+
+#EXTINF:-1 tvg-id=“CNBC” tvg-name=“CNBC” tvg-logo="CNBC.png" group-title="NEWS CHANNEL",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+
+#EXTINF:-1 tvg-id=“BBC WORLD NEWS” tvg-name=“BBC_WORLD_NEWS” tvg-logo="BBC_WORLD_NEWS.png" group-title="NEWS CHANNEL",BBC WORLD NEWS
+http://hd4.lsops.net/live/bbcnews_en_hls.smil/chunklist_w311815633_b364000.m3u8
+
+#EXTINF:-1 tvg-id=“BLOOMBERG TV” tvg-name=“BLOOMBERG_TV” tvg-logo="BLOOMBERG_TV.png" group-title="NEWS CHANNEL",BLOOMBERG TV
+http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“BLOOMBERG INDONESIA” tvg-name=“BLOOMBERG_INDONESIA” tvg-logo="BLOOMBERG_INDONESIA.png" group-title="NEWS CHANNEL",BLOOMBERG INDONESIA
+rtmp://stream.bloombergindonesia.tv/live/ playpath=btvi swfUrl=http://cdn.indostreamix.com/player/jwplayer5/player.swf pageUrl=http://www.indostreamix.com/2013/12/bloomberg-tv-indonesia-live-streaming.html
+
+#EXTINF:-1 tvg-id=“CNN” tvg-name=“CNN” tvg-logo="CNN.png" group-title="NEWS CHANNEL",CNN
+http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“REUTERS” tvg-name=“REUTERS” tvg-logo="REUTERS.png" group-title="NEWS CHANNEL",REUTERS
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+	
+########################   series 24/7   ############################
+
+#EXTINF:-1,[COLOR yellow] -- 24/7 -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo="ArrestedDevelopment.png" group-title="24/7 Streams", Arrested Development
+rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+ 
+#EXTINF:-1 tvg-logo="AmericanDad.png" group-title="24/7 Streams", American dad
+http://62.210.76.216:8080/hls/americanhdx.m3u8
+
+#EXTINF:-1 tvg-logo="AngerManegement.png" group-title="24/7 Streams", ANGER MANAGEMENT.
+rtmp://198.27.75.99/app/ playpath=anger02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch3 playpath=anger02
+
+#EXTINF:-1 tvg-logo="Becker.png"  group-title="24/7 Streams", Becker.
+rtmp://198.27.75.99/app playpath=beck swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+
+#EXTINF:-1 tvg-logo="BreakingBad.png" group-title="24/7 Streams", BreAkinG BaD HD
+http://62.210.76.216:8080/hls/bb.m3u8 timeout=15
+
+#EXTINF:-1 tvg-logo="http://www.weebly.com/uploads/3/1/6/0/31603209/4672488.png", Cheers.
+rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+
+#EXTINF:-1 tvg-logo="Cleveland.png" group-title="24/7 Streams", Cleveland HD
+rtmp://62.210.76.216/hls/cleveland timeout=15
+
+#EXTINF:-1 tvg-logo="Curbs.png" group-title="24/7 Streams", Curbs
+rtmp://192.99.38.122/app playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03 timeout=15
+ 
+#EXTINF:-1 tvg-logo="Futurama.png" group-title="24/7 Streams", Futurama
+rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+ 
+#EXTINF:-1 tvg-logo="Futurama.png" group-title="24/7 Streams", Futurama HD
+http://62.210.76.216:8080/hls/gothd.m3u8 timeout=15
+
+#EXTINF:-1 tvg-logo="FamilyGuy.png" group-title="24/7 Streams", Family guy (HD).
+rtmp://192.99.38.122/app/ playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
+ 
+#EXTINF:-1 tvg-logo="FamilyGuy.png" group-title="24/7 Streams", Family guy HD
+http://62.210.76.216:8080/hls/familyguyhdx.m3u8 timeout=15
+ 
+#EXTINF:-1 tvg-logo="GOT.png" group-title="24/7 Streams", Game of Thrones HD
+http://62.210.76.216:8080/hls/gothd.m3u8 timeout=15
+ 
+#EXTINF:-1 tvg-logo="HomeImprovement.png" group-title="24/7 Streams", Home Improvement
+rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+
+#EXTINF:-1 tvg-logo="JustShootMe.png" group-title="24/7 Streams", Just Shoot Me
+rtmp://198.27.75.99/app playpath=shootme swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+ 
+#EXTINF:-1 tvg-logo="KingOfTheHill.png" group-title="24/7 Streams",  King Of The Hill  
+http://62.210.76.216:8080/hls/kinghillhd.m3u8 timeout=15
+
+#EXTINF:-1 tvg-logo="Madmen.png" group-title="24/7 Streams",  Madmen
+http://62.210.76.216:8080/hls/madmen.m3u8 timeout=15
+
+#EXTINF:-1 tvg-logo="MITM.png" group-title="24/7 Streams", Malcolm In The Middle
+rtmp://198.27.75.99/app playpath=malcolm swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?malcolm live=true
+
+#EXTINF:-1 tvg-logo="NewGirl.png" group-title="24/7 Streams",  New Girl  
+rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?ng live=true timeout=15
+ 
+#EXTINF:-1 tvg-logo="Seinfeld.png" group-title="24/7 Streams",  Seinfeld  
+rtmp://198.27.75.99/app playpath=seinfeld02 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+ 
+#EXTINF:-1 tvg-logo="SouthPark.png" group-title="24/7 Streams",  South Park HD  
+http://62.210.76.216:8080/hls/southparkhdx.m3u8 timeout=15
+
+#EXTINF:-1 tvg-logo="StarTrek.png" group-title="24/7 Streams", STAR TREK
+rtmp://192.99.38.122/app/ playpath=tng02 swfUrl=http://tgun.tv/jwplayer/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=tng02
+ 
+#EXTINF:-1 tvg-logo="3rdRockFromTheSun.png" group-title="24/7 Streams",  Third Rock From The Sun  
+rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheDrewCareyShow.png" group-title="24/7 Streams",  The Drew Carey Show  
+rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?drewcarey live=true timeout=15
+ 
+#EXTINF:-1 tvg-logo="That70sShow.png" group-title="24/7 Streams", That 70s Show
+rtmp://198.27.75.99/app playpath=that70sshow swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?that70sshow live=true timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheBigBangTheory.png" group-title="24/7 Streams", The Big Bang Theory hd
+http://62.210.76.216:8080/hls/bigbanghd.m3u8 timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheSimpsons.png" group-title="24/7 Streams", The Simpsons
+rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/ timeout=15
+  
+#EXTINF:-1 tvg-logo="TheSimpsons.png" group-title="24/7 Streams", The Simpsons Hd
+http://62.210.76.216:8080/hls/simpsonshdx.m3u8 timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheSopranos.png" group-title="24/7 Streams", The Sopranos
+rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://www.tgun.tv/menus/players/playerindex6.php?sopranos live=true timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheWalkingDead.png" group-title="24/7 Streams", The Walking Dead
+rtmp://198.27.75.99/app playpath=twd02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02 timeout=15
+ 
+#EXTINF:-1 tvg-logo="TheWalkingDead.png" group-title="24/7 Streams", The Walking Dead HD
+http://62.210.76.216:8080/hls/walkingdead.m3u8 timeout=15
+ 
+#EXTINF:-1 tvg-logo="" group-title="24/7 Streams", 24/7 Movies HD
+rtmp://62.210.76.216/live2 playpath=movie swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/movies-hd timeout=15
+ 
+#EXTINF:-1 tvg-logo="" group-title="24/7 Streams", 24/7 House Of Cards HD
+rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/house-of-cards timeout=15
+ 
+#EXTINF:-1 tvg-logo="Friends.png" group-title="24/7 Streams", 24/7 Friends
+rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?friends02&widthid=600&heightid=480 timeout=15
+ 
+#EXTINF:-1 tvg-logo="TwoAndAHalfMen.png" group-title="24/7 Streams", 24/7 Two & a Half Men
+rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds/index.php?men02&widthid=600&heightid=450 timeout=15
+
+#EXTINF:-1 tvg-logo="Weeds.png" group-title="24/7 Streams", Weeds
+rtmp://62.210.76.216/hls/weeds timeout=15
+
+#EXTINF:-1 tvg-logo="Will&Grace.png", Will & Grace
+rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?2bg01/
+
+#EXTINF:-1 tvg-logo="Xfiles.png", X-FILES
+rtmp://192.99.38.122/app/ playpath=xfiles02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1 playpath=xfiles02
+
+#EXTINF:-1 tvg-logo="Broke Girls.png" group-title="24/7 Streams",  Broke Girls
+rtmp://198.27.75.99/app/ playpath=2bg01 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
+
+#EXTINF:-1 tvg-logo="Man vs Wild.png" group-title="24/7 Streams",  Man vs Wild
+http://195.154.188.161/hls/manwildus.m3u8
+
+
+############################################# Trial Channel ###################
+
+#EXTINF:-1,[COLOR yellow] -- Trial Channel -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 group-title=" Trial Channel ",lRT
+http://iptv4.me:4321/lrt
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST2
+rtmp://204.107.26.252:8086/live/686.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST3
+rtmp://204.107.26.252:8086/live/414.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST4
+rtmp://204.107.26.252:8086/live/413.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST5
+rtmp://204.107.26.252:8086/live/403.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST6
+rtmp://204.107.26.252:8086/live/341.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST7
+rtmp://204.107.26.252:8086/live/335.high.stream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST10
+http://188.115.129.163:1234/udp/239.1.9.2:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST11
+http://176.104.44.137:4022/udp/239.32.2.19:2000
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST12
+http://109.200.237.176:12345/udp/224.5.1.1:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST13
+http://46.245.131.73:81/udp/239.195.32.4:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST14
+http://176.65.56.2:8090/udp/238.0.30.6:1224
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST15
+http://92.38.188.38:5050/udp/239.77.0.6:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST16
+http://176.102.163.19:81/udp/239.192.10.85:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST17
+http://188.115.129.163:1234/udp/239.1.9.2:1234
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST18
+http://95.211.209.167:20708/
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST19
+http://212.250.159.8:7120
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST20
+rtmp://182.160.110.163/live/livestream
+
+#EXTINF:-1 group-title=" Trial Channel ",TEST21
+http://95.211.209.167:20709/
+
+#EXTINF:-1 group-title=" Trial Channel ", RUNNING MAN E215 
+https://s10.alldebrid.com/dl/e6towpb02f/%EC%9D%BC%EC%9A%94%EC%9D%BC%EC%9D%B4%20%EC%A2%8B%EB%8B%A4-%EB%9F%B0%EB%8B%9D%EB%A7%A8.E347.141005.HDTV.XviD-WITH.avi
+
+#EXTINF:-1 group-title=" Trial Channel ", THE FLASH S01E01  
+https://s12.alldebrid.com/dl/e6trjd85b0/the.flash.2014.101.hdtv-lol.mp4
+
+#EXTINF:-1 group-title=" Trial Channel ", SCORPION S01E03
+https://s08.alldebrid.com/dl/e6tsvtcd07/scorpion.103.hdtv-lol.mp4
+
+
+########################   RADIO   ############################
+
+#EXTINF:-1 radio="true" tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM.FM
+http://50.7.96.210:8285/;stream.mp3:21
+
+#EXTINF:-1 tvg-id="NASYID FM" tvg-name="NASYID_FM" tvg-logo="NASYID_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASYID.FM
+http://radio.nasyidfm.com.my:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="HOT FM" tvg-name="HOT_FM" tvg-logo="HOT_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HOT.FM
+http://2173.live.streamtheworld.com/HOTFMTGANUAAC?type=.flv
+
+#EXTINF:-1 tvg-id="ERA FM" tvg-name="ERA_FM" tvg-logo="ERA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", ERA.FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:-1 tvg-id="SINAR FM" tvg-name="SINAR_FM" tvg-logo="SINAR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SINAR.FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:-1 tvg-id="SURIA FM" tvg-name="SURIA_FM" tvg-logo="SURIA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SURIA.FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv
+
+#EXTINF:-1 tvg-id="THR GEGAR" tvg-name="THR_GEGAR" tvg-logo="THR_GEGAR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR_GEGAR.FM
+http://astro3.rastream.com/gegar?type=.flv
+
+#EXTINF:-1 tvg-id="MUZIK FM" tvg-name="MUZIK_FM" tvg-logo="MUZIK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MUZIK.FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="KLASIK NASIONAL" tvg-name="KLASIK_NASIONAL" tvg-logo="KLASIK_NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KLASIK NASIONAL.FM
+http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NASIONAL FM" tvg-name="NASIONAL_FM" tvg-logo="NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASIONAL.FM
+http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KL FM" tvg-name="KL_FM" tvg-logo="KL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KL.FM
+http://turbo.stream.my/live/mp4:rtm-ch012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BEST104 FM" tvg-name="BEST104_FM" tvg-logo="BEST104_FM.png" group-title="MALAYSIAN RADIO CHANNEL", BEST104.FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="FLY FM" tvg-name="FLY_FM" tvg-logo="FLY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", FLY.FM
+http://7439.live.streamtheworld.com/FLYFMAAC?type=.flv
+
+#EXTINF:-1 tvg-id="HITZ FM" tvg-name="HITZ_FM" tvg-logo="HITZ_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HITZ.FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:-1 tvg-id="MIX FM" tvg-name="MIX_FM" tvg-logo="MIX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MIX.FM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:-1 tvg-id="RED FM" tvg-name="RED_FM" tvg-logo="RED_FM.png" group-title="MALAYSIAN RADIO CHANNEL", RED.FM
+http://starrfm.rastream.com/starrfm-redfm?type=.flv
+
+#EXTINF:-1 tvg-id="LITE FM" tvg-name="LITE_FM" tvg-logo="LITE_FM.png" group-title="MALAYSIAN RADIO CHANNEL", LITE.FM
+http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:-1 tvg-id="TRAXX FM" tvg-name="TRAXX_FM" tvg-logo="TRAXX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", TRAXX.FM
+http://turbo.stream.my/live/mp4:rtm-ch013/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MY FM" tvg-name="MY_FM" tvg-logo="MY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MY.FM
+http://astro1.rastream.com/myfm?type=.flv
+
+#EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA.FM
+http://astro3.rastream.com/raaga?type=.flv
+
+#EXTINF:-1 tvg-id="PAHANG FM" tvg-name="PAHANG_FM" tvg-logo="PAHANG_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PAHANG FM
+http://115.133.145.203:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="PERAK FM" tvg-name="PERAK_FM" tvg-logo="PERAK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PERAK FM
+http://72.20.10.50:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="KENINGAU FM" tvg-name="KENINGAU_FM" tvg-logo="KENINGAU_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KENINGAU FM
+http://50.7.158.42:8084/;stream.mp3
+
+#EXTINF:-1 tvg-id="SARAWAK FM" tvg-name="SARAWAK_FM" tvg-logo="SARAWAK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SABAH FM" tvg-name="SABAH_FM" tvg-logo="SABAH_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SABAH FM
+http://s8.voscast.com:7484/;stream.mp3
+
+#EXTINF:-1 tvg-id="SABAH V FM" tvg-name="SABAH_V_FM" tvg-logo="SABAH_V_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SABAH V FM
+http://s8.voscast.com:7472/;stream.mp3
+
+#EXTINF:-1 tvg-id="KELANTAN FM" tvg-name="KELANTAN_FM" tvg-logo="KELANTAN_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SELANGOR FM" tvg-name="SELANGOR_FM" tvg-logo="SELANGOR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SELANGOR FM
+http://turbo.stream.my/live/mp4:rtm-ch019/manifest.f4m
+
+#EXTINF:-1 tvg-id="PERLIS FM" tvg-name="PERLIS_FM" tvg-logo="PERLIS_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PERLIS FM
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1 tvg-id="KEDAH FM" tvg-name="KEDAH_FM" tvg-logo="KEDAH_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KEDAH FM
+http://60.51.214.210:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SANDAKAN FM" tvg-name="SANDAKAN_FM" tvg-logo="SANDAKAN_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SANDAKAN FM
+http://50.7.158.42:8183/;stream.mp3
+
+#EXTINF:-1  tvg-logo="Sky News.png"radio="true" group-title="RADIO CHANNEL",SKY NEWS RADIO 
+rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com/radio
+
+#EXTINF:-1  tvg-logo="Hatchet Radio.png"radio="true" group-title="RADIO CHANNEL", Hatchet radio 
+http://198.154.106.101:8266/
