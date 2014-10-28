@@ -1,0 +1,431 @@
+<script type="text/javascript">
+<xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item> 
+<title>ASTRO ARENA</title> 
+<link>$doregex[url]</link>
+<regex> 
+<name>url</name> 
+<expres>file: "([^"]*)</expres> 
+<page>http://www.layarku.tv/arena.html</page> 
+</regex> 
+<thumbnail>http://vectorise.net/logo/wp-content/uploads/2011/02/Astro-Arena.jpg</thumbnail> 
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 1</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/assp1.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/astro_supersport.jpg</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/assp2.php</page>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/thumb/f/f6/Astro_supersport_2.gif/220px-Astro_supersport_2.gif.jpeg</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/assp3.php</page>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-41l9hRneAR0/UgBSg85LszI/AAAAAAAAFmM/DVtdCY9_SFg/s1600/astro+supersport+3+logo+channel.PNG</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 4</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/assp4.php</page>
+</regex>
+<thumbnail>http://3.bp.blogspot.com/-Vch13TtGzN4/Uf3_nFnyqAI/AAAAAAAAFls/sj2kNmQvX1o/s1600/gambar+astro+supersport+4.JPG</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/fox.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/star.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item> 
+<title>STAR MOVIES</title> 
+<link>$doregex[url]</link>
+<regex> 
+<name>url</name> 
+<expres>file: "([^"]*)</expres> 
+<page>http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html</page> 
+</regex> 
+<thumbnail>http://ngankung.percuma.tk/LOGO/star-movies-hd.png</thumbnail> 
+</item>
+
+<item> 
+<title>STAR WORLD</title> 
+<link>$doregex[url]</link>
+<regex> 
+<name>url</name> 
+<expres>file: "([^"]*)</expres> 
+<page>http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html</page> 
+</regex> 
+<thumbnail>http://i1297.photobucket.com/albums/ag26/nieldc/Foreign%20TV/starworld_zps05dc3e44.png</thumbnail> 
+</item>
+
+<item> 
+<title>MTV LIVE</title> 
+<link>$doregex[url]</link>
+<regex> 
+<name>url</name> 
+<expres>file: "([^"]*)</expres> 
+<page>http://www.htvonline.com.vn/livetv/mtv-31346E61.html</page> 
+</regex> 
+<thumbnail>http://fast2.images.flixwagon.com/images/solutions/mtv_logo_300x300_black.jpg</thumbnail> 
+</item>
+
+<item>
+<title>TV3</title>
+<link>plugin://plugin.video.f4mTester/?bitrate=-1&amp;url=http%3A%2F%2Ftv3liveflash-lh.akamaihd.net%2Fz%2Ftv3live_3%4086099%2Fmanifest.f4m%3Fhdcore%3D2.7.6%26g%3DOREOKXIJBQAX</link>
+<thumbnail>https://lh6.ggpht.com/lSZdEI7i9grLS05mYM8yt4lEkcx4mseab4Z1qZk6wq6fiznXACV5gf0PmbPtGg9hsuw=w300</thumbnail>
+</item>
+
+<item>
+<title>NTV7</title>        
+<link>plugin://plugin.video.f4mTester/?bitrate=-1&amp;url=http%3A%2F%2Fntv7liveflash-lh.akamaihd.net%2Fz%2Fntv7live_7%4086096%2Fmanifest.f4m%3Fhdcore%3D2.7.6%26g%3DTTMUGXUMJOHZ</link>
+<thumbnail>https://lh6.ggpht.com/lSZdEI7i9grLS05mYM8yt4lEkcx4mseab4Z1qZk6wq6fiznXACV5gf0PmbPtGg9hsuw=w300</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>        
+<link>plugin://plugin.video.f4mTester/?bitrate=-1&amp;url=http%3A%2F%2F8tvliveflash-lh.akamaihd.net%2Fz%2F8tvlive_8%4086097%2Fmanifest.f4m%3Fhdcore%3D2.7.6%26g%3DEEHUNYLYKCZW</link>
+<thumbnail>https://lh6.ggpht.com/lSZdEI7i9grLS05mYM8yt4lEkcx4mseab4Z1qZk6wq6fiznXACV5gf0PmbPtGg9hsuw=w300</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>        
+<link>plugin://plugin.video.f4mTester/?bitrate=-1&amp;url=http%3A%2F%2Ftv9liveflash-lh.akamaihd.net%2Fz%2Ftv9live_9%4086094%2Fmanifest.f4m%3Fhdcore%3D2.7.6%26g%3DVLHTKHPYQSMI</link>
+<thumbnail>https://lh6.ggpht.com/lSZdEI7i9grLS05mYM8yt4lEkcx4mseab4Z1qZk6wq6fiznXACV5gf0PmbPtGg9hsuw=w300</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=bf3345a2748b2faa38bb00ea97a8d826cc0aa958&mode=1&name=Sky+Sports+1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 2[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=08fd9843e1d40edeb84acb713155f6b310bd4f0e&mode=1&name=Sky+Sports+2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_mx_sports2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 3[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=ca6d363acb5148694b77138f7fb5381eebb1b00f&mode=1&name=Sky+Sports+3</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100803180611/logopedia/images/7/79/Sky_Sports_3_2010.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 4[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=ea29b4c96f97759b9506fdcc955b0bed775b0e95&mode=1&name=Sky+Sports+4</link>
+<thumbnail>http://1.bp.blogspot.com/-dxNVODtGH8I/VAW6dF6R6dI/AAAAAAAAFUw/gLh5NuSCA0k/s1600/sky%2Bsports%2B4%2Blive%2Bmykora.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports 5[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=b9028f5c952a0463a24847c425d1a890dde58388&mode=1&name=Sky+Sports+5</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0DIS96SDNUnYi5_UnWdU6gUUJtO5gZNyQh8qmRmQ8iYeebsD8Aw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Sky Sports F1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=6db3871c7373be163d7b06b529037c6c0663d0e9&mode=1&name=Sky+Sports+F1</link>
+<thumbnail>http://www.igoal.tv/ch/skyf1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Premier Sports[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=355a5218096a01b05c7e9ba745dec39459838319&mode=1&name=Premier+Sports</link>
+<thumbnail>http://www.eliteleague.co.uk/files/Premier_Sports.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]BT Sport 1[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=2cd6c99412502e810edace556adfb67fc28eb4b6&mode=1&name=BT1</link>
+<thumbnail>http://www.thefightlounge.co.uk/wp-content/uploads/2013/08/BT.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]BT Sport 2[/COLOR]</title>
+<link>plugin://plugin.video.p2p-streams/?url=c8d25d5e6d0f473049b66fc85bf63e94eb061d70&mode=1&name=BT+Sports+2</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]FOX SPORTS[/COLOR][COLOR=brown] * [/COLOR]</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/fox.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>[COLOR=FFFF4500]FOX SPORTS 2[/COLOR][COLOR=brown] * [/COLOR]</title>
+<link>$doregex[getURL]</link>
+<regex>
+<name>getURL</name>
+<expres>file: "(.*?)"</expres>
+<page>http://www.wezatv.com/dooball/star.php</page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports.png</thumbnail>
+<fanart>.</fanart>
+</item>
+
+<item>
+<title>MBC Pro 1</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro 2</title>
+<link>http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live2.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro 3</title>
+<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live3.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Pro 4</title>
+<link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>http://213.136.71.43:1935/live/beinsports1/playlist.m3u8<link>
+<sublink>rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=1b342 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 2 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.82:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=2b878 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=bns2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/ live=true timeout=15</sublink>
+</link>
+<thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 3 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.106:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=3b426 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=bns3 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://www.gripsport.net/uploads/3/1/4/6/31460627/4433949_orig.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 4 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.82:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=4b206 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=bns4 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://tv-on.in/wp-content/uploads/2014/05/Bein-Sports-4-HD-live.gif</thumbnail>
+</item>
+
+<item>
+<title>Bein 5 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=5b981 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.196:1935/live playpath=bn5 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/eKtzUc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 6 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.82:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=6b660 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.194:1935/live playpath=bn6 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/by9j5N2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 7 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.82:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=7b842 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.86:1935/live playpath=bns7 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/cHNlLaQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 8 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=8b916 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.103:1935/live playpath=bns8 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 8 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] token=#atd%#$ZH swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://biggestplayer.me/
+<regex>
+<name>streamer</name>
+<expres>streamer=([^&]*)</expres>
+<page>http://biggestplayer.me/streamcr.php?id=166648&amp;width=620&amp;height=490</page>
+<referer>http://theactionlive.com/livegamecr.php?id=bn8&amp;width=620&amp;height=490&amp;stretching=</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>"file=([^&]*)</expres>
+<page>http://biggestplayer.me/streamcr.php?id=166648&amp;width=620&amp;height=490</page>
+<referer>http://theactionlive.com/livegamecr.php?id=bn8&amp;width=620&amp;height=490&amp;stretching=</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/cEpkyFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 9 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.106:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=9b272 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.82:1935/live playpath=bn9 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://thetvtime.com/files/thumbs/1401813860c69a5.-big.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 10 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: Arabic[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.82:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=10b510 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.103:1935/live playpath=bn10 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://scrat.hellocoton.fr/img/classic/bein-sport-10hd-live-regarder-bein-sport-10-hd-en-direct-gratuit-11334154.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 11 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: English[/COLOR]</title>
+<link>
+<sublink>rtmpe://5.153.233.74:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=11b761 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://31.220.0.103:1935/live playpath=bnss11 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/</sublink>
+</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2014/01/jport_11hd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 12 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: English[/COLOR]</title>
+<link>
+<sublink>rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=12b994 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</sublink>
+<sublink>rtmp://95.168.199.245:1935/live playpath=bn12 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/ live=true timeout=15</sublink>
+</link>
+<thumbnail>http://world-livestreaming.eu/wp-content/uploads/2014/05/bein-sport-12.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 1 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: French[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] token=Fo5_n0w?U.rA6l3-70w47ch swfUrl=http://cdn.goodcast.me/players.swf pageUrl=http://goodcast.me/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>streamer=([^&]*)</expres>
+<page>http://goodcast.me/stream.php?id=166510&amp;width=800&amp;height=500&amp;stretching=</page>
+<referer>http://up4free.com/stream.php?id=wspfr01&amp;width=800&amp;height=500&amp;stretching=</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>"file=([^&]*)</expres>
+<page>http://goodcast.me/stream.php?id=166510&amp;width=800&amp;height=500&amp;stretching=</page>
+<referer>http://up4free.com/stream.php?id=wspfr01&amp;width=800&amp;height=500&amp;stretching=</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/r3A1LIO.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 2 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: French[/COLOR]</title>
+<link>
+$doregex[streamer] playpath=$doregex[file] token=Fo5_n0w?U.rA6l3-70w47ch swfUrl=http://cdn.goodcast.me/players.swf pageUrl=http://goodcast.me/ live=true timeout=15
+<regex>
+<name>streamer</name>
+<expres>streamer=([^&]*)</expres>
+<page>http://goodcast.me/stream.php?id=166511&amp;width=800&amp;height=500&amp;stretching=</page>
+<referer>http://up4free.com/stream.php?id=wspfr02&amp;width=800&amp;height=500&amp;stretching=</referer>
+</regex>
+<regex>
+<name>file</name>
+<expres>"file=([^&]*)</expres>
+<page>http://goodcast.me/stream.php?id=166511&amp;width=800&amp;height=500&amp;stretching=</page>
+<referer>http://up4free.com/stream.php?id=wspfr02&amp;width=800&amp;height=500&amp;stretching=</referer>
+</regex>
+</link>
+<thumbnail>http://i.imgur.com/G8aSwIJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 13 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: French[/COLOR]</title>
+<link>rtmpe://5.153.233.106:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=13b361 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</link>
+<thumbnail>http://www.gripsport.net/uploads/3/1/4/6/31460627/3040302_orig.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 14 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: French[/COLOR]</title>
+<link>rtmpe://37.203.209.34:443// app=c0be82e1442e7169a9a358db47fcafcb playpath=14b898 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</link>
+<thumbnail>http://world-livestreaming.eu/wp-content/uploads/2014/05/bein-sport-14HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 15 HD  [COLOR=FFFF0000]Updated Daily[/COLOR]  [COLOR=FF00FF00]Language: English[/COLOR]</title>
+<link>rtmpe://37.203.209.34:443/ app=c0be82e1442e7169a9a358db47fcafcb playpath=15b378 swfurl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf pageUrl=http://xuscacamusca.se/ live=1</link>
+<thumbnail>http://world-livestreaming.eu/wp-content/uploads/2014/05/bein-sport-15hd-live-regarder-bein-sport-15-hd-en-direct-gratuit-11334164.jpg</thumbnail>
+</item>
+
+<script type="text/javascript" src="http://xtgem.com/js/page_templates_simple.js"></script>
